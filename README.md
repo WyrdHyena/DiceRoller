@@ -1,3 +1,3 @@
 # DiceRoller
 Small Android app that lets you roll a dice.
-Building this app was part of the Google Developers "Android Basics in Kotlin"-Course.
+Building this app was part of the Google Developers "Android Basics in Kotlin"-Course. It uses OOP for learning purposes, although this might be a bit of over-engeneering...
